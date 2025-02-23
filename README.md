@@ -5,7 +5,7 @@
     py -3.10 -m venv myvenv
     
     myvenv\Scripts\activate
-    
+# run the scripts
     python -m pip install --upgrade pip
     pip install --upgrade --quiet  langchain-google-genai pillow
     pip install streamlit
